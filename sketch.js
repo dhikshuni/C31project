@@ -52,7 +52,7 @@ function setup() {
 
 
 function draw() {
-  background("black");
+  background("blue");
   textSize(20)
  //text("Score : "+score,20,30);
   Engine.update(engine);
